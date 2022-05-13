@@ -1,0 +1,31 @@
+body{
+    margin:0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2F283A;
+}
+.nav-logo{
+    width: 40px;
+    margin-left:30px;
+}
+.nav-items{
+    list-style: none;
+    display: flex;
+}
+.nav-items>li{
+    padding: 10px;
+    color: aliceblue;
+}
+.second{
+    width:200%;
+    height:max-content;
+    text-align: justify;
+    display:inline-block;
+    background-color: #5D6D7E;
+}
+.feet{
+    background-color:#9298A1 ;
+}
